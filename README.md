@@ -30,7 +30,6 @@ Models: Pretrained or custom-trained CNN / ML models
 
 Installation
 
-git clone https://github.com/yourusername/gesture-recognition-system.git
 cd gesture-recognition-system
 pip install -r requirements.txt
 
